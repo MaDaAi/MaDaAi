@@ -10,7 +10,7 @@ status = "Building, learning, and turning ideas into apps and projects"
 
 I'm a Computer Science student at McMaster University with an interest in software development, technology, and building things from scratch. I enjoy working on projects that challenge me to learn new tools, solve problems, and turn ideas into something that actually works.
 
-## 💻 Programming, 🛠️ Tools & Technologies, ## 🎨 Creative
+## 💻 Programming, 🛠️ Tools & Technologies, 🎨 Creative
 
 [![Programming Skills](https://skillicons.dev/icons?i=java,python,haskell)](https://skillicons.dev) [![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode)](https://skillicons.dev) [![Creative Tools](https://skillicons.dev/icons?i=ps,pr,ai,ae)](https://skillicons.dev)
 
