@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey, I'm Mansoor 👋
 
-<!--
-**MaDaAi/MaDaAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+user = "Mansoor Alakoozai"
+degree = "Computer Science @ McMaster University"
+status = "Building, learning, and turning ideas into projects"
+```
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student at McMaster University with an interest in software development, technology, and building things from scratch. I enjoy working on projects that challenge me to learn new tools, solve problems, and turn ideas into something that actually works.
+
+## 💻 Programming
+
+[![Programming Skills](https://skillicons.dev/icons?i=java,python,haskell)](https://skillicons.dev)
+
+## 🛠️ Tools & Technologies
+
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode)](https://skillicons.dev)
+
+## 🎨 Creative
+
+[![Creative Tools](https://skillicons.dev/icons?i=ps,pr,ai,ae)](https://skillicons.dev)
+
+**Adobe Creative Cloud**  
+Photoshop • Premiere Pro • Illustrator • After Effects
+
+**Microsoft 365**  
+Word • Excel • PowerPoint • Outlook
+
+## 🚀 Projects
+
+### 🎮 Call of Jelly
+
+A game project built from the ground up, combining programming, custom assets, sound, gameplay systems, and a packaged Windows release.
+
+### 🔨 More Coming Soon
+
+I'm always experimenting with new ideas and building projects as I expand my skills.
+
+## 📚 Currently Learning
+
+Continuing to improve my programming, software development, Linux, and computer science fundamentals.
+
+---
+
+> Always building. Always learning.
