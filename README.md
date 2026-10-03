@@ -1,11 +1,5 @@
 # Hey, I'm Mansoor 👋
 
-```python
-user = "Mansoor Alakoozai"
-degree = "Computer Science @ McMaster University"
-status = "Building, learning, and turning ideas into apps and projects"
-```
-
 ## About Me
 
 I'm a Computer Science student at McMaster University with an interest in software development, technology, and building things from scratch. I enjoy working on projects that challenge me to learn new tools, solve problems, and turn ideas into something that actually works.
