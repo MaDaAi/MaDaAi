@@ -2,7 +2,7 @@
 
 ```python
 user = "Mansoor Alakoozai"
-future degree = "Computer Science @ McMaster University"
+degree = "Computer Science @ McMaster University"
 status = "Building, learning, and turning ideas into apps and projects"
 ```
 
@@ -12,10 +12,13 @@ I'm a Computer Science student at McMaster University with an interest in softwa
 
 ## 💻 Programming, 🛠️ Tools & Technologies, 🎨 Creative
 
-[![Programming Skills](https://skillicons.dev/icons?i=java,python,haskell)](https://skillicons.dev) [![Tools](https://skillicons.dev/icons?i=linux,git,github,vscode)](https://skillicons.dev) [![Creative Tools](https://skillicons.dev/icons?i=ps,pr,ai,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,haskell,linux,windows,git,github,vscode,idea,blender,ps,pr,ai,ae)](https://skillicons.dev)
 
-**Adobe Creative Cloud**  
-Photoshop • Premiere Pro • Illustrator • After Effects
+**Development & Tools**  
+Java • Python • Haskell • Linux • Windows • Git • GitHub • VS Code • NetBeans • Roblox Studio
+
+**Creative Software**  
+Blender • Photoshop • Premiere Pro • Illustrator • After Effects
 
 **Microsoft 365**  
 Word • Excel • PowerPoint • Outlook
