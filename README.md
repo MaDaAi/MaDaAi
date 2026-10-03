@@ -29,7 +29,7 @@ I'm always experimenting with new ideas and building projects as I expand my ski
 
 ## 📚 Currently Learning
 
-Continuing to improve my programming, software development, Linux, and computer science fundamentals.
+Continuing to improve my programming, software development, Linux, and computer science fundamentals. At Mcmaster I am learning a language called Haskell, alongside Python.
 
 ---
 
