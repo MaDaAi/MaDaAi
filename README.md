@@ -12,7 +12,7 @@ I'm a Computer Science student at McMaster University with an interest in softwa
 
 ## 💻 Programming, 🛠️ Tools & Technologies, 🎨 Creative
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,haskell,linux,windows,git,github,vscode,idea,blender,ps,pr,ai,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,haskell,linux,windows,git,github,vscode,blender,ps,pr,ai,ae)](https://skillicons.dev)
 
 **Development & Tools**  
 Java • Python • Haskell • Linux • Windows • Git • GitHub • VS Code • NetBeans • Roblox Studio
