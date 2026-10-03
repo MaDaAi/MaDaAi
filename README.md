@@ -2,8 +2,8 @@
 
 ```python
 user = "Mansoor Alakoozai"
-degree = "Computer Science @ McMaster University"
-status = "Building, learning, and turning ideas into projects"
+future degree = "Computer Science @ McMaster University"
+status = "Building, learning, and turning ideas into apps and projects"
 ```
 
 ## About Me
