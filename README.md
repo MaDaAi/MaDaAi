@@ -19,10 +19,6 @@ Word • Excel • PowerPoint • Outlook
 
 ## 🚀 Projects
 
-### 🎮 Call of Jelly
-
-A game project built from the ground up, combining programming, custom assets, sound, gameplay systems, and a packaged Windows release.
-
 ### 🖥️ MultiMini
 
 A Windows desktop multitasking utility for combining windows, games, displays, and images into configurable layers with adjustable visibility and input switching.
@@ -30,6 +26,10 @@ A Windows desktop multitasking utility for combining windows, games, displays, a
 ### 📝 Notefira
 
 A free, local-first notebook app for handwriting, PDF markup, and study, with offline storage, optional Google Drive sync, and desktop builds for Windows, macOS, and Linux.
+
+### 🎮 Call of Jelly
+
+A game project built from the ground up, combining programming, custom assets, sound, gameplay systems, and a packaged Windows release.
 
 ## 📚 Currently Learning
 
