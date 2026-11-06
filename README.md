@@ -23,9 +23,13 @@ Word • Excel • PowerPoint • Outlook
 
 A game project built from the ground up, combining programming, custom assets, sound, gameplay systems, and a packaged Windows release.
 
-### 🔨 More Coming Soon
+### 🖥️ MultiMini
 
-I'm always experimenting with new ideas and building projects as I expand my skills.
+A Windows desktop multitasking utility for combining windows, games, displays, and images into configurable layers with adjustable visibility and input switching.
+
+### 📝 Notefira
+
+A free, local-first notebook app for handwriting, PDF markup, and study, with offline storage, optional Google Drive sync, and desktop builds for Windows, macOS, and Linux.
 
 ## 📚 Currently Learning
 
