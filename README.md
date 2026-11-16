@@ -19,7 +19,7 @@ Word • Excel • PowerPoint • Outlook
 
 ## 🚀 Projects
 
-🎮 Zyclipa
+## 🎮 Zyclipa
 
 A free, open-source Windows gaming utility that combines screen recording, instant replay, audio mixing, a soundboard, and clip management into one application. Includes optional Google Drive synchronization and a web dashboard for accessing clips and controlling the app from other devices.
 
