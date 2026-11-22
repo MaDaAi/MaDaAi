@@ -21,11 +21,11 @@ Word • Excel • PowerPoint • Outlook
 
 ### 🎮 Zyclipa
 
-A free, open-source Windows gaming utility that combines screen recording, instant replay, audio mixing, a soundboard, and clip management into one application. Includes optional Google Drive synchronization and a web dashboard for accessing clips and controlling the app from other devices.
+A free, open-source gaming utility that combines screen recording, instant replay, audio mixing, a soundboard, and clip management into one application. Includes optional Google Drive synchronization and a web dashboard for accessing clips and controlling the app from other devices.
 
 ### 🖥️ MultiMini
 
-A Windows desktop multitasking utility for combining windows, games, displays, and images into configurable layers with adjustable visibility and input switching.
+A desktop multitasking utility for combining windows, games, displays, and images into configurable layers with adjustable visibility and input switching.
 
 ### 📝 Notefira
 
