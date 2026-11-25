@@ -19,25 +19,25 @@ Word • Excel • PowerPoint • Outlook
 
 ## 🚀 Projects
 
-### 🎮 Zyclipa
+### 🖥️ [MultiMini](https://github.com/MaDaAi/MultiMini)
+
+A desktop multitasking utility for combining windows, games, displays, and images into configurable layers with adjustable visibility and input switching. Includes customizable overlays, saved workspaces, and screenshot tools. Available for Windows, with Linux support in development.
+
+### 📦 [IdleStow](https://github.com/MaDaAi/IdleStow)
+
+A free, open-source desktop file optimization app that identifies inactive files and helps reclaim storage through lossless compression. Analyzes activity file by file, previews recommended changes, and offers manual approval, confirmation-based optimization, or opt-in autonomous operation with recovery options.
+
+### 🎮 [Zyclipa](https://github.com/MaDaAi/Zyclipa)
 
 A free, open-source gaming utility that combines screen recording, instant replay, audio mixing, a soundboard, and clip management into one application. Includes optional Google Drive synchronization and a web dashboard for accessing clips and controlling the app from other devices.
 
-### 🖥️ MultiMini
+### 📝 [Notefira](https://github.com/MaDaAi/Notefira)
 
-A desktop multitasking utility for combining windows, games, displays, and images into configurable layers with adjustable visibility and input switching.
-
-### 📝 Notefira
-
-A free, local-first notebook app for handwriting, PDF markup, and study, with offline storage, optional Google Drive sync, and desktop builds for Windows, macOS, and Linux.
-
-### 🎮 Call of Jelly
-
-A game project built from the ground up, combining programming, custom assets, sound, gameplay systems, and a packaged Windows release.
+A free, local-first notebook app for handwriting, PDF markup, and study, with offline storage, optional Google Drive sync, and desktop builds for Windows, macOS, and Linux. Also available as a [web app](https://madaai.github.io/Notefira/).
 
 ## 📚 Currently Learning
 
-Continuing to improve my programming, software development, Linux, and computer science fundamentals. At Mcmaster I am learning a language called Haskell, alongside Python.
+Continuing to improve my programming, software development, Linux, and computer science fundamentals. At McMaster, I am learning Haskell alongside Python.
 
 ---
 
